@@ -14,7 +14,7 @@ Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de 
    Voor e-mail en domeinnamen die worden geleverd door mijn.host.  
    
 ## E-mailinstellingen diverse diensten
-Mailinstellingen verschillen per leverancier:
+Instellingen verschillen per leverancier:
 
 - **tenwolde.nu**  
   Zie elders op deze pagina onder "E-mail tenwolde.nu".  
@@ -70,3 +70,5 @@ Deze gaat offline en is dan niet meer bereikbaar. Ook het exporteren van eventue
 **Wat gebeurt er met mijn landingspagina?**  
 Een landingspagina is in feite een kleine website. Hier geldt hetzelfde als voor een website.  
 
+**Wat moet ik invoeren als ik ga naar cms.tenwolde.nu?**  
+Je krijgt hier alleen een login te zien als het gebruikte IP adres onbekent is in het systeem, achterhaal het gebruikte adres op ifconfig.io en geef deze door via wilco@tenwolde.nu.
