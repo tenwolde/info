@@ -75,3 +75,10 @@ Deze is bereikbaar op [cms.tenwolde.nu](https://cms.tenwolde.nu), zorg er voor d
 
 **Waarom krijg ik een extra login popup te zien op cms.tenwolde.nu?**  
 Je krijgt hier alleen een extra login te zien als het gebruikte IP adres onbekent is in het systeem, achterhaal het gebruikte adres op [ifconfig.io](https://ifconfig.io) en geef deze door via wilco@tenwolde.nu.
+
+**Waarom kan ik helemaal niet meer het CMS bereiken?**  
+Het CMS is enkel nog bereikbaar op [cms.tenwolde.nu](https://cms.tenwolde.nu), andere URL's zijn komen te vervallen en worden niet meer in bedrijf gebracht. 
+
+
+**Webserver IP**  
+Vanaf 28 maart 2025 zijn alle websites van het Cten-platform en overgezet naar het tenwolde.nu-platform, wanneer domeinen volledig in eigen beheer zijn dient een alias geconfigureerd te worden naar homelab.tenwolde.nu indien er nog gebruik gemaakt wordt van web-hosting. 
