@@ -16,7 +16,7 @@ Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de 
 ## E-mailinstellingen diverse diensten
 Instellingen verschillen per leverancier:
 
-- **tenwolde.nu**  
+- **tenwolde.nu (per 28-03-2025)**  
   Zie elders op deze pagina onder "E-mail tenwolde.nu".  
 - **TransIP**  
    Instellingen zijn te vinden op de pagina van TransIP, zie [hier](https://www.transip.nl/knowledgebase/email).  
