@@ -6,7 +6,7 @@ Op deze pagina is informatie te vinden voor oud-Cten-klanten. Er worden geen nie
 ## Status
 Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de betreffende dienstverlener.
 
-- [status.tenwolde.nu](https://status.tenwolde.nu)  (per 28-03-2025) 
+- [status.tenwolde.nu](https://status.tenwolde.nu) (per 28-03-2025)   
    Diensten die worden geleverd door het tenwolde.nu-platform.  
 - [www.transnoc.nl](https://www.transnoc.nl/)  
    Voor e-mail en domeinnamen die worden geleverd door TransIP.  
