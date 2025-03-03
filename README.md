@@ -58,6 +58,10 @@ Op 28 maart 2025 stopt de Cten e-mailservice. Als er geen migratie is uitgevoerd
 Er wordt echter na 28 maart 2025 geen ondersteuning meer op locatie geboden voor e-mailclients zoals Thunderbird en Outlook. Deze dienen door uzelf of uw ICT-dienstverlener te worden geconfigureerd.  
 De vereiste instellingen zijn terug te vinden op deze pagina. Voor supportvragen hierover wordt naar deze pagina verwezen.  
 
+
+**Werkt tenwolde.nu / Cowmail ook met de iPhone**  
+Jazeker, voor meer informatie kijk [daar](https://docs.mailcow.email/client/client-apple/)
+
 **Hoelang blijft mijn website nog actief?**  
 Uw website blijft actief tot en met 2027.  
 
