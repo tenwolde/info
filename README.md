@@ -12,7 +12,18 @@ Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de 
    Voor e-mail en domeinnamen die worden geleverd door TransIP.  
 - [status.mijn.host](https://status.mijn.host/)  
    Voor e-mail en domeinnamen die worden geleverd door mijn.host.  
-   
+
+
+## Planning uitfasering
+
+| Datum     | Status         | Omschrijving |
+| -----     | ---            | --- |
+| 2024 Q4   | Voltooid       | Domeinen onder direct klant beheer brengen |
+| 2025 Q1   | Voltooid       | Facturatie stop zetten per 1 januari |
+| 2025 Q1   | In uitvoering  | Migratie mail en offline zetten Cten mail-platform op 28-03-2025 |
+| 2025 Q2   | In uitvoering  | Website migratie naar tenwolde.nu-platform |
+| 2028 Q1   | Open           | Stop zetten alle overige diensten voor oud Cten-klanten
+       
 ## E-mailinstellingen diverse diensten
 Instellingen verschillen per leverancier:
 
