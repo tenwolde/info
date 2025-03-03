@@ -70,5 +70,8 @@ Deze gaat offline en is dan niet meer bereikbaar. Ook het exporteren van eventue
 **Wat gebeurt er met mijn landingspagina?**  
 Een landingspagina is in feite een kleine website. Hier geldt hetzelfde als voor een website.  
 
-**Wat moet ik invoeren als ik ga naar cms.tenwolde.nu?**  
-Je krijgt hier alleen een login te zien als het gebruikte IP adres onbekent is in het systeem, achterhaal het gebruikte adres op ifconfig.io en geef deze door via wilco@tenwolde.nu.
+**Waarom kan ik het CMS niet meer bereiken?**  
+Deze is bereikbaar op [cms.tenwolde.nu](https://cms.tenwolde.nu), zorg er voor dat het gebruikte IP adres door is gegeven via wilco@tenwolde.nu. 
+
+**Waarom krijg ik een extra login popup te zien op cms.tenwolde.nu?**  
+Je krijgt hier alleen een extra login te zien als het gebruikte IP adres onbekent is in het systeem, achterhaal het gebruikte adres op [ifconfig.io](https://ifconfig.io) en geef deze door via wilco@tenwolde.nu.
