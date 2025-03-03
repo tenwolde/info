@@ -17,7 +17,7 @@ Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de 
 ## Planning uitfasering
 
 | Datum     | Status         | Omschrijving |
-| -----     | ---            | --- |
+| :---     | :---            | :--- |
 | 2024 Q4   | Voltooid       | Domeinen onder direct klant beheer brengen |
 | 2025 Q1   | Voltooid       | Facturatie stop zetten per 1 januari |
 | 2025 Q1   | In uitvoering  | Migratie mail en offline zetten Cten mail-platform op 28-03-2025 |
@@ -42,7 +42,7 @@ Voor overige klanten is er in 2025 en 2026 nog de optie om gebruik te maken van 
 > **LET OP: tenwolde.nu is geen redundante dienstverlening. Alles is op basis van best effort.**  
 
 | Omschrijving | Adres |
-| ----------- | ----------- |
+| :--- | :--- |
 | Webmail | https://webmail.tenwolde.nu/SOGo/ |
 | Inkomend | mail.tenwolde.nu 993 (IMAP)  |
 | Uitgaand | mail.tenwolde.nu 465 (SMTP)  |
