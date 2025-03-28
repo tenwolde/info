@@ -6,7 +6,7 @@ Op deze pagina is informatie te vinden voor oud-Cten-klanten. Er worden geen nie
 ## Status
 Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de betreffende dienstverlener.
 
-- [status.tenwolde.nu](https://status.tenwolde.nu) (per 28-03-2025)   
+- [status.tenwolde.nu](https://status.tenwolde.nu) (per 28-03-2025 20:00)   
    Diensten die worden geleverd door het tenwolde.nu-platform.  
 - [www.transnoc.nl](https://www.transnoc.nl/)  
    Voor e-mail en domeinnamen die worden geleverd door TransIP.  
@@ -65,7 +65,7 @@ Verzoeken worden uitsluitend via e-mail opgepakt via wilco@tenwolde.nu. Berichte
 Maak een keuze vóór 28 maart 2025. Tot die datum kan ondersteuning worden gegeven voor migratie naar [TransIP](https://www.transip.nl/email-hosting/), [mijn.host](https://mijn.host/e-mail-hosting/) en tenwolde.nu.
 
 **Het is 28 maart 2025 geweest en mijn e-mail werkt niet meer, wat nu?**  
-Op 28 maart 2025 stopt de Cten e-mailservice. Als er geen migratie is uitgevoerd en alle verzoeken zijn genegeerd, maar er alsnog een migratie gewenst is, stuur dan een e-mail naar wilco@tenwolde.nu vanaf een werkend e-mailadres.  
+Op 28 maart 2025 om 20:00 stopt de Cten e-mailservice. Als er geen migratie is uitgevoerd en alle verzoeken zijn genegeerd, kan er alsnog een migratie worden ingepland.
 Er wordt echter na 28 maart 2025 geen ondersteuning meer op locatie geboden voor e-mailclients zoals Thunderbird en Outlook. Deze dienen door uzelf of uw ICT-dienstverlener te worden geconfigureerd.  
 De vereiste instellingen zijn terug te vinden op deze pagina. Voor supportvragen hierover wordt naar deze pagina verwezen.  
 
