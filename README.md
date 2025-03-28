@@ -1,7 +1,7 @@
 # tenwolde.nu
 Op deze pagina is informatie te vinden voor oud-Cten-klanten. Er worden geen nieuwe klanten meer aangenomen.
 
-> **LET OP: De e-maildienst op het Cten-platform stopt per 28 maart 2025!**
+> **LET OP: De e-maildienst op het Cten-platform stopt per 28 maart 2025 20:00!**
 
 ## Status
 Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de betreffende dienstverlener.
