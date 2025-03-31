@@ -20,7 +20,7 @@ Indien er problemen lijken te zijn, controleer dan eerst de statuspagina van de 
 | :---     | :---            | :--- |
 | 2024 Q4   | Voltooid       | Domeinen onder direct klant beheer brengen |
 | 2025 Q1   | Voltooid       | Facturatie stop zetten per 1 januari |
-| 2025 Q1   | In uitvoering  | Migratie mail en offline zetten Cten mail-platform op 28-03-2025 |
+| 2025 Q1   | Voltooid  | Migratie mail en offline zetten Cten mail-platform op 28-03-2025 |
 | 2025 Q2   | In uitvoering  | Website migratie naar tenwolde.nu-platform |
 | 2028 Q1   | Open           | Stop zetten alle overige diensten voor oud Cten-klanten
        
